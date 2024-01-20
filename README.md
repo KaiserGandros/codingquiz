@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-This is a very basic and quick coding quiz to test the sharpness of your knowledge of what we learned so far. Repurposed the code i previously made from a while ago where it took me too long and had to move on. 
+This is a very basic and quick coding quiz to test the sharpness of your knowledge of what we learned so far. Repurposed the code i previously made from a while ago where it took me too long and had to move on. From there i was able to add some new skills to it.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
